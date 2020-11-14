@@ -1,4 +1,8 @@
-# **Analyzing Airport Data**
+# Lab 5: Airport Histogram Data
+Due: 20th November 2020
+
+This script was created as part of Lab 5: Airport Histogram Data for IDCE 30274: Computer Programming in GIS taught by Professor Shadrock Roberts at Clark University. 
+
 In this assignment we're going to analyze aiport data. We'll be downloading some data in a common file format, exploring it using Python to discover the distances of certain flights, and then creating a basic [histogram](https://en.wikipedia.org/wiki/Histogram) as our final output.  
 
 ### To complete this assignment you will need:
