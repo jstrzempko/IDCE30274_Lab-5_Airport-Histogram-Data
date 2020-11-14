@@ -8,6 +8,7 @@ The data used in this lab can be acceed online at [OpenFlights project](https://
 The script contains four challenges that teach how to import, manipulate, and analyze data to students. The first challenge is to print all of the airport names for Russia from the file `airport.dat`. This is completed by using an if statement to index into the country columns to select only airports with country == Russia. The second challenge builds two dictionaries mapping the unique airport ID to the geographic coordinates (latitude & longitude) to look up the location of each airport by its ID. The third challenge reads the `routes.dat` file to get the IDS of the source and destination airports. It then looks up the latitude and longitude based on the ID and calculates the length of each route based on the ID. Each route distance is appended to the list of all route length. The fourth challenge plots a histogram based on the route lengths to visualize the distribution of distances flown. The last three challenges are cumulative and code blocks should be run in consecutive order. 
 
 **Output:**
+
 ![](histogram.PNG)
 
 ## Why is this lab important?
