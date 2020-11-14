@@ -6,6 +6,8 @@ This script was created as part of Lab 5: Airport Histogram Data for IDCE 30274:
 # The Code
  All data can be accessed and downloaded publicly and script can be re-run using modified file paths and names. If questions arise, users can contact Jess Strzempko at JeStrzempko@clarku.edu for more help and further information.
 
+![](histogram.PNG)
+
 ### What you will submit:
 A link to your Github repo. The repo must contain your Python code (either as script in `.py` or a notebook in `.ipynb` format). There are four code challenges here, so be sure your code is well documented and shows us how you are solving each challenge! The `README` of your repo should briefly summarize the project (in your own words) and contain an embdded image of your final output. You do not need to include the data files you downloaded (as I have here), but can if you like. If you're going to use this repo as part of your portfolio I suggest that you include a "data" section in your readme that explains what data you've used and links to the pages where it can be downloaded (in fact, you can just copy that text from this repo!).
 
